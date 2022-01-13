@@ -1,7 +1,7 @@
 ---
 slug: "astro-dao"
-title: "Astro DAO"
-oneliner: "Launch your DAO in less than 10 minutes without a line of code."
+title: "AstroDAO"
+oneliner: "Meet, Vote, Fund. Launch your own DAO in 5 minutes without a line of code."
 website: "https://astrodao.com/"
 app: "https://app.astrodao.com/"
 twitter: "https://twitter.com/AstroDao"
